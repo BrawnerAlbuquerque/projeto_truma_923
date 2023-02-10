@@ -2,3 +2,4 @@ comandos que aprendemos
 git init
 git status
 git add "titulo"
+git add . (adiciona tudo para ser comitado)
