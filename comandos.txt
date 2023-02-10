@@ -15,3 +15,5 @@ git checkout nome
 git switch nome
 git reflog
 git reset
+git merge nome_branch
+git pull
