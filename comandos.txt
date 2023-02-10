@@ -3,3 +3,9 @@ git init
 git status
 git add "titulo"
 git add . (adiciona tudo para ser comitado)
+git commit -m "texto" 
+	vinculando ao github: 
+git config --global user.email "seu email"
+git config --global user.name "seu nome"
+git remote add origin url
+git push --set-upstream origin master
