@@ -9,3 +9,9 @@ git config --global user.email "seu email"
 git config --global user.name "seu nome"
 git remote add origin url
 git push --set-upstream origin master
+git branch
+git branch nome
+git checkout nome
+git switch nome
+git reflog
+git reset
